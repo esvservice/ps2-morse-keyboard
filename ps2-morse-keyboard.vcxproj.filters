@@ -35,5 +35,8 @@
     <ClInclude Include="..\..\..\Downloads\int_pins.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ps2-morse-decoder\ps2-morse-keyboard\int_pins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

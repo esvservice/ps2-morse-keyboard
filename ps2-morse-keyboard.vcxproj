@@ -94,6 +94,7 @@
     <ProjectCapability Include="VisualMicro" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\Desktop\ps2-morse-decoder\ps2-morse-keyboard\int_pins.h" />
     <ClInclude Include="..\..\..\Downloads\int_pins.h" />
     <ClInclude Include="PS2Keyboard.h" />
     <ClInclude Include="__vm\.ps2-morse-keyboard.vsarduino.h" />
